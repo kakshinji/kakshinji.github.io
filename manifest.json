@@ -1,0 +1,29 @@
+{
+  "name": "今晚便利店 · 免费 3D 街景网页游戏",
+  "short_name": "今晚便利店",
+  "description": "免费在线 3D 街景网页游戏：港式旧区夜市、47 家店铺、可互动怪客 NPC、白天黑夜切换。浏览器直接玩，无需下载。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "landscape",
+  "background_color": "#12100E",
+  "theme_color": "#12100E",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# 今晚便利店（Tonight's Convenience Store）
+
+> 免费在线 3D 街景网页游戏。走进港式旧区的深夜街道，在 47 家店铺之间闲逛，和怪客 NPC 互动、举手招揽客人、切换白天黑夜、进店选购。打开浏览器即可游玩，无需下载安装、无需注册、完全免费。
+
+本项目是纯前端 WebGL 网页游戏，用 Vite + React + TypeScript + Three.js 构建，无后端、无账号系统、无内购。
+
+## 游戏
+
+- [今晚便利店 · 3D 街景](https://kakshinji.github.io/): 主游戏。港式旧区夜市街景，47 家店铺（便利店、烧腊、凉茶、金饰、眼镜、修锁、鱼蛋车、关东煮等），可互动的怪客 NPC（行人、食客、宠物、机器人），白天与黑夜切换，举手招揽客人，进店看货与购物。
+- [湖边坐一会儿 · 钓鱼](https://kakshinji.github.io/fishing.html): 副游戏。环湖钓位、132 种淡水鱼、五档品级（普通/稀有/史诗/传奇/不朽）、图鉴收集、每日战报，全程可零操作的「摸鱼」钓鱼。
+
+## 玩法与操作
+
+- 操作：`WASD` 移动，`Shift` 快走，按住鼠标左键环视，双击画面锁定视角，`E` 与场景互动，`Esc` 释放鼠标。
+- 无需下载客户端、无需安装插件、无需注册账号，支持桌面浏览器（Chrome / Edge / Firefox / Safari）。
+- 完全免费，无内购，无广告。
+
+## 技术栈
+
+- Vite + React + TypeScript
+- Three.js（WebGL）
+- 纯静态部署（GitHub Pages），无服务端
+
+## 源码
+
+- 源码仓库：https://github.com/kakshinji/convenience-tonight
+- 构建产物 / 线上站点：https://github.com/kakshinji/kakshinji.github.io
+
+## 可选
+
+- [GitHub 源码](https://github.com/kakshinji/convenience-tonight)：完整源码、开发脚本与设计文档

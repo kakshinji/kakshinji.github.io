@@ -1,0 +1,109 @@
+# robots.txt — https://kakshinji.github.io/robots.txt
+# 《今晚便利店》3D 街景网页游戏 ·《湖边坐一会儿》钓鱼小游戏
+# 本站欢迎所有搜索引擎与 AI 爬虫抓取、索引与引用本站内容。
+
+User-agent: *
+Allow: /
+Disallow: /debug-forms.html
+Disallow: /debug-pose.html
+
+# ---------- 显式放行主流 AI 爬虫（本站内容欢迎被 AI 检索与引用）----------
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: ImagesiftBot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: PerplexityBot-User
+Allow: /
+
+# ---------- 中国搜索引擎 ----------
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Baiduspider-render
+Allow: /
+
+User-agent: Baiduspider-image
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: Sogou inst spider
+Allow: /
+
+User-agent: Sogou spider2
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+User-agent: 360Spider-Text
+Allow: /
+
+User-agent: Yisouspider
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# ---------- 站点地图 ----------
+Sitemap: https://kakshinji.github.io/sitemap.xml
